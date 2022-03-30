@@ -7,7 +7,7 @@
 
 import numpy as np
 
-# No 2
+# No 1 & 2
 def print_numbers():
     for i in range(1,101):
         if i % 3 == 0 and i % 5 == 0:
